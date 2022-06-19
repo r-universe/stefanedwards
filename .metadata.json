@@ -1,0 +1,10 @@
+[
+  {
+    "package": "AzureAppInsights",
+    "oncran": true
+  },
+  {
+    "package": "lemon",
+    "oncran": true
+  }
+]

@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AzureAppInsights"]
 	path = AzureAppInsights
 	url = https://github.com/stefanedwards/azureappinsights
-	shallow = true
-	registered = true
 [submodule "lemon"]
 	path = lemon
 	url = https://github.com/stefanedwards/lemon
-	shallow = true
-	registered = true

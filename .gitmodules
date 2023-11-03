@@ -8,3 +8,6 @@
 [submodule "lemon"]
 	path = lemon
 	url = https://github.com/stefanedwards/lemon
+[submodule "microCRAN"]
+	path = microCRAN
+	url = https://github.com/cran/microCRAN
